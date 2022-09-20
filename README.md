@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sultan
+- 👋 Hi, I’m @Sultan Ajayi
 - 👀 I’m interested in ...Software Quality Assurance Testing
 - 🌱 I’m currently learning ...Automation testing
 - 💞️ I’m looking to collaborate on ...any testing project
