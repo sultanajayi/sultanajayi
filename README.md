@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sultan Ajayi
 - 👀 I’m interested in ...Software Quality Assurance Testing
-- 🌱 I am a skilled software quality assurance engineer with a focus on automation. I have a strong understanding of testing methodologies and experience implementing quality assurance processes for software development projects. I am highly adept at identifying and troubleshooting defects and pride myself on my attention to detail and ability to deliver high-quality software.
+- 🌱 Experienced QA Engineer skilled in test automation and testing methodologies. Committed to delivering impeccable software through comprehensive test plans, defect identification, and cross-functional collaboration. Adept at enhancing product excellence and contributing to organizational success. Excited to join your team and ensure exceptional software experiences for users.
 - 💞️ I’m looking to collaborate on ...any testing project
 - 📫 How to reach me ...@ajayisultan39@gmail.com
 
